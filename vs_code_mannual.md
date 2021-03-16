@@ -64,7 +64,7 @@ Insert meaningful log message automatically
 
 |Windows 단축키|설명|
 |:-:|:-:|
-|"Ctrl + B"  사이드바 열기/닫기|사이드바 열기/닫기|
+|"Ctrl + B" |사이드바 열기/닫기|
 |"Ctrl + P"|빠른 열기(파일이나 기호 탐색)|
 |"Ctrl + Shift + P"|모든 명령 표시(에디터의 모든 명령에 접근)|
 |"Ctrl + F"|찾기(검색)|
