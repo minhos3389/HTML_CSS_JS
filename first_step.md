@@ -259,5 +259,3 @@ SVG(Scalable Vector Graphics)는 마크업 언어(HTML/XML)기반의 벡터 그�
   물론 만날 수 있다면 말이다.
   
 그 외 더 많은 오픈소스라이선스에 대한 정보는 ```OpenSource.org``` 에서 확인할 수 있다.
-  
-
