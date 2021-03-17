@@ -207,7 +207,6 @@ SVG(Scalable Vector Graphics)는 마크업 언어(HTML/XML)기반의 벡터 그�
 |.|	Period(피리어드), Dot(닷)	|점, 마침표|
 |?|	Question(퀘스천) mark	|물음표|
 |/|	Slash(슬래쉬)|	-|
-|```|```|	Vertical bar(버티컬 바)|-|
 |```\```|	Backslash(백슬래쉬)|-|
 |()|	Parenthesis(퍼렌서시스)|	(소)괄호|
 |{}|	Brace(브레이스)	|중괄호|
