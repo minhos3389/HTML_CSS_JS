@@ -86,4 +86,4 @@ Insert meaningful log message automatically
 2. 모든 명령 표시 실행 / "Ctrl + Shift + P"(Windows), "Cmd + Shift + P"(macOS)
 3. ```Emmet: Wrap with Abbreviation(Emmet: 약어로 랩핑)```를 입력하거나 목록에서 선택("Enter")
 4. ```div```, ```span``` 등의 Emmet 문법 (ex: ```.wrapper```,```sapn.bold```)을 입력
-5. 완료("Enter")
+5. 완료("Enter").
