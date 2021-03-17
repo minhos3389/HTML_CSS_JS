@@ -207,8 +207,8 @@ SVG(Scalable Vector Graphics)는 마크업 언어(HTML/XML)기반의 벡터 그�
 |.|	Period(피리어드), Dot(닷)	|점, 마침표|
 |?|	Question(퀘스천) mark	|물음표|
 |/|	Slash(슬래쉬)|	-|
-|||	Vertical bar(버티컬 바)|-|
-|\|	Backslash(백슬래쉬)|-|
+|```|```|	Vertical bar(버티컬 바)|-|
+|```\```|	Backslash(백슬래쉬)|-|
 |()|	Parenthesis(퍼렌서시스)|	(소)괄호|
 |{}|	Brace(브레이스)	|중괄호|
 |[]|	Bracket(브래킷)	|대괄호|
@@ -241,7 +241,7 @@ SVG(Scalable Vector Graphics)는 마크업 언어(HTML/XML)기반의 벡터 그�
 물론 인터넷에 떠도는 코드 몇 줄 복사해 썼다고 그 정도 심각한 문제가 되진 않겠지만, 항상 조심하는 것이 좋다.<br>
 회사에서 작업 중에 괜찮은 오픈 소스를 찾았다면 반사적으로 License부터 찾도록 하자.
 
-- 보기만 해도 흐뭇해지는 라이선스
+> 보기만 해도 흐뭇해지는 라이선스들
 
 ### Apache License
 : 아파치 소프트웨어 재단에서 자체 소프트웨어에 적용하기 위해 만든 라이선스다.<br>
